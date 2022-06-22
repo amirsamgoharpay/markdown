@@ -1,6 +1,6 @@
 # markdown
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.  
-![markdown]()
+![markdown](https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/205_Markdown_logo_logos-512.png)
 ## heading
 Headings are like html  
 \# = \<h1>\</h1>  
