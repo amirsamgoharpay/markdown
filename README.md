@@ -88,5 +88,5 @@ random text
 1. you can use html in markdown
 2. check raw content of this file for learning bette
 3. there is a lot of way for rendering md file some of them have a better options (for example you cant use html style in github but you can use it in jupyter)
-4. this is a quick tutorial so dont forget to check [markdown website](https://https://www.markdownguide.org/) for advanced content
+4. this is a quick tutorial so dont forget to check [markdown website](https://www.markdownguide.org/) for advanced content
 5. enjoy your life :)
