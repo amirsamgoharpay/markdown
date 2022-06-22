@@ -1,4 +1,5 @@
 # markdown
+## heading
 Headings are like html  
 \# = \<h1>\</h1>  
 \## = \<h2>\</h2>  
