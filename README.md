@@ -65,10 +65,13 @@ print("hello world")
 ```python
 print("hello world")
 ```
-## divider  
-\-\-\-        
-random text  
+## divider
+\-\-\-  
+
+random text
+
 ---
+
 random text
 ## dont know the name of it , check it for yourself XD
 \> random text
@@ -83,6 +86,7 @@ random text
 
 ## importent things
 1. you can use html in markdown
-2. check raw content of this file for learning better
-3. this is a quick tutorial so dont forget to check [markdown website](https://https://www.markdownguide.org/) for advanced content
-4. enjoy your life :)
+2. check raw content of this file for learning bette
+3. there is a lot of way for rendering md file some of them have a better options (for example you cant use html style in github but you can use it in jupyter)
+4. this is a quick tutorial so dont forget to check [markdown website](https://https://www.markdownguide.org/) for advanced content
+5. enjoy your life :)
